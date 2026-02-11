@@ -8,17 +8,16 @@
   </a>
 </p>
 
-## 💻 Sobre mí
-Me gusta crear soluciones tecnológicas eficientes, aprender nuevas tecnologías
-y mejorar constantemente mi lógica de programación. Tengo experiencia desarrollando
-proyectos en Java, C++, MySQL y JavaScript.
-## 🛠️ Tecnologías
+## 💻 About me
+- 👨‍💻 I am Carlos Talavera, System Engineering Students
+- 🚀 I like learning new skilss, helping others and being better everyday
+## 🛠️ Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,git,github,mysql&theme=light)](https://skillicons.dev)
-## 🚀 Proyectos destacados
+## 🚀 featured projects
 
-## 📚 Actualmente aprendiendo
+## 📚 Learning
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-## 📈 Estadísticas
+## 📈 Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carlostala04&theme=tokyonight)
-## 📫 Contacto
+## 📫 Contact
 📧 Email: carlostala.dev@gmail.com
