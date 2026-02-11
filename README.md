@@ -9,7 +9,6 @@
 ## 📚 Actualmente aprendiendo
 
 ## 📈 Estadísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlostala04&layout=compact&theme=tokyonight)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlostala04)](https://github.com/anuraghazra/github-readme-stats)
 ## 📫 Contacto
 
