@@ -8,8 +8,6 @@
   </a>
 </p>
 
-💻 Estudiante de Ingeniería en Sistemas | Desarrollador en formación  
-🚀 Apasionado por el desarrollo de software, bases de datos y la lógica de programación  
 ## 💻 Sobre mí
 Me gusta crear soluciones tecnológicas eficientes, aprender nuevas tecnologías
 y mejorar constantemente mi lógica de programación. Tengo experiencia desarrollando
