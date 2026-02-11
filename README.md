@@ -1,7 +1,6 @@
 # 👋 Hola, soy Carlos Talavera
 💻 Estudiante de Ingeniería en Sistemas | Desarrollador en formación  
-🚀 Apasionado por el desarrollo web, bases de datos y la lógica de programación  
-📍 Costa Rica
+🚀 Apasionado por el desarrollo de software, bases de datos y la lógica de programación  
 ## 💻 Sobre mí
 Me gusta crear soluciones tecnológicas eficientes, aprender nuevas tecnologías
 y mejorar constantemente mi lógica de programación. Tengo experiencia desarrollando
@@ -20,5 +19,3 @@ proyectos en Java, C++, MySQL y JavaScript.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carlostala04&theme=tokyonight)
 ## 📫 Contacto
 📧 Email: carlostala.dev@gmail.com
-- 💼 LinkedIn: /
-- 🌐 Portafolio: en desarrollo
