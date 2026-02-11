@@ -1,4 +1,4 @@
-# 👋 Hola, soy Carlos Talavera
+# 👋 Hola, soy [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Carlos Talavera)](https://git.io/typing-svg)
 💻 Estudiante de Ingeniería en Sistemas | Desarrollador en formación  
 🚀 Apasionado por el desarrollo de software, bases de datos y la lógica de programación  
 ## 💻 Sobre mí
