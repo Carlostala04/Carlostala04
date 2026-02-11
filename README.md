@@ -1,4 +1,5 @@
-# 👋 Hola, soy [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Carlos Talavera)](https://git.io/typing-svg)
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC857&width=435&lines=Systems+Engineering+Student;Full-Stack+%26+Automation;President+of+Artemis-Devs;Teaching+is+Learning" alt="Typing SVG" /></a>
+
 💻 Estudiante de Ingeniería en Sistemas | Desarrollador en formación  
 🚀 Apasionado por el desarrollo de software, bases de datos y la lógica de programación  
 ## 💻 Sobre mí
