@@ -13,7 +13,11 @@ proyectos en Java, C++, MySQL y JavaScript.
 ## 📚 Actualmente aprendiendo
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 ## 📈 Estadísticas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlostala04)](https://github.com/anuraghazra/github-readme-stats)
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlostala04&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlostala04&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carlostala04&theme=tokyonight)
 ## 📫 Contacto
 📧 Email: carlostala.dev@gmail.com
 - 💼 LinkedIn: /
