@@ -1,4 +1,12 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=205DC9&width=435&lines=Carlos+Talavera;Systems+Engineering+Student; Software+Developer" alt="Typing SVG" /></a>
+<h1 align="center">
+  👋 Hola, soy Carlos
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Carlos+Talavera;Systems+Engineering+Student;Software+Developer;Java+%7C+C%2B%2B+%7C+JavaScript;Learning+Full+Stack+Web" />
+  </a>
+</p>
 
 💻 Estudiante de Ingeniería en Sistemas | Desarrollador en formación  
 🚀 Apasionado por el desarrollo de software, bases de datos y la lógica de programación  
