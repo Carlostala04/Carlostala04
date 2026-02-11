@@ -9,6 +9,7 @@
 ## 📚 Actualmente aprendiendo
 
 ## 📈 Estadísticas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlostala04O&layout=compact&theme=tokyonight)
 
 ## 📫 Contacto
 
