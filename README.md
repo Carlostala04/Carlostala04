@@ -13,11 +13,7 @@
 - 🚀 I like learning new skilss, helping others and being better everyday
 ## 🛠️ Skills
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css&theme=light)](https://skillicons.dev)
-### Backend
-[![My Skills](https://skillicons.dev/icons?i=java,mysql&theme=light)](https://skillicons.dev)
-### Support
-[![My Skills](https://skillicons.dev/icons?i=git,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,spring,mysql,git,github)](https://skillicons.dev)
 ## 🚀 featured projects
 
 ## 📚 Learning
