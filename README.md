@@ -16,7 +16,7 @@
 ## 🚀 featured projects
 
 ## 📚 Learning
-[![My Skills](https://skillicons.dev/icons?i=react,ts,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts)](https://skillicons.dev)
 ## 📈 Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carlostala04&theme=tokyonight)
 ## 📫 Contact
