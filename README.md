@@ -12,7 +12,7 @@
 - 👨‍💻 I am Carlos Talavera, System Engineering Students
 - 🚀 I like learning new skills, helping others and being better everyday
 ## 🛠️ Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,spring,mysql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,git,github)](https://skillicons.dev)
 ## 🚀 featured projects
 
 ## 📚 Learning
