@@ -13,9 +13,7 @@
 - 🚀 I like learning new skills, helping others and being better everyday
 ## 🛠️ Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,git,github)](https://skillicons.dev)
-## 🚀 featured projects
 ## 🚀 Featured Projects
-
 <table>
   <tr>
     <td width="50%">
