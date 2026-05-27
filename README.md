@@ -17,7 +17,7 @@
 ```yaml
 name: "Carlos Talavera"
 role: "Systems Engineering Student"
-focus: ["Web Development", "Backend", "Clean Code"]
+focus: ["Web Development", "Frontend", "Clean Code"]
 motto: "Learning every day, helping others along the way"
 ```
 
@@ -25,7 +25,7 @@ motto: "Learning every day, helping others along the way"
 
 ## 🛠️ Tech Stack
 
-**Languages & Frontend**
+**Languages & Backend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
