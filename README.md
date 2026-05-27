@@ -77,7 +77,7 @@ motto: "Learning every day, helping others along the way"
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🔷 Project Name</h3>
+      <h3 align="center">My-Farmer</h3>
       <div align="center">
         <a href="https://github.com/Carlostala04/REPO-NAME" target="_blank">
           <img src="https://via.placeholder.com/400x220/0d1117/58A6FF?text=📸+Screenshot" 
@@ -92,8 +92,10 @@ motto: "Learning every day, helping others along the way"
           Breve descripción del proyecto. Qué hace, qué problema resuelve.
         </p>
         <p align="left">
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/react-online?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=%23000&color=%2361DAFB"/>
+          <img src="https://img.shields.io/badge/nest-online?style=for-the-badge&logo=nestjs&logoColor=%23E0234E&labelColor=%23000&color=%23E0234E"/>
+           <img src="https://img.shields.io/badge/supabase-online?style=for-the-badge&logo=supabase&logoColor=%233FCF8E&labelColor=%23000&color=%233FCF8E"/>
+           <img src="https://img.shields.io/badge/css-online?style=for-the-badge&logo=css&logoColor=%23663399&labelColor=%23000&color=%23663399"/>
         </p>
       </div>
     </td>
