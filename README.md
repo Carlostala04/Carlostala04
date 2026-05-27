@@ -54,19 +54,19 @@ motto: "Learning every day, helping others along the way"
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🔷 Project Name</h3>
+      <h3 align="center">MediRecord</h3>
       <div align="center">
         <a href="https://github.com/Carlostala04/REPO-NAME" target="_blank">
           <img src="https://via.placeholder.com/400x220/0d1117/58A6FF?text=📸+Screenshot" 
                width="100%" style="border-radius: 8px;" alt="Project Preview"/>
         </a>
         <br/><br/>
-        <a href="https://github.com/Carlostala04/REPO-NAME" target="_blank">
+        <a href="https://github.com/Carlostala04/Gestion-pacientes.git" target="_blank">
           <img src="https://img.shields.io/badge/🔗 Repositorio-58A6FF?style=for-the-badge"/>
         </a>
         <br/><br/>
         <p align="left">
-          Breve descripción del proyecto. Qué hace, qué problema resuelve.
+          Sistema de gestion de pacientes e historiales para una clinica privada de una sola persona que permite automatizar procesos de ver historiales y agendar consultas
         </p>
         <p align="left">
           <img src="https://img.shields.io/badge/supabase-online?style=for-the-badge&logo=supabase&logoColor=%233FCF8E&labelColor=%23000"/>
