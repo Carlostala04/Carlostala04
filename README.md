@@ -108,9 +108,6 @@ motto: "Learning every day, helping others along the way"
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Carlostala04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlostala04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e" />
-
 <br/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carlostala04&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=ff6e6e&currStreakLabel=8b949e)
