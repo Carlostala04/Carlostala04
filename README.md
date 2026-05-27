@@ -79,7 +79,7 @@ motto: "Learning every day, helping others along the way"
     <td width="50%">
       <h3 align="center">My-Farmer</h3>
       <div align="center">
-        <a href="https://github.com/Carlostala04/REPO-NAME" target="_blank">
+        <a href="https://github.com/Carlostala04/My-Farmer.git" target="_blank">
           <img src="https://via.placeholder.com/400x220/0d1117/58A6FF?text=📸+Screenshot" 
                width="100%" style="border-radius: 8px;" alt="Project Preview"/>
         </a>
@@ -89,13 +89,13 @@ motto: "Learning every day, helping others along the way"
         </a>
         <br/><br/>
         <p align="left">
-          Breve descripción del proyecto. Qué hace, qué problema resuelve.
+          Aplicacion mobile pensada para ganaderos y agricultrores para llevar control de sus animales, cultivos, parcelas y recordatorios
         </p>
         <p align="left">
           <img src="https://img.shields.io/badge/react-online?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=%23000&color=%2361DAFB"/>
           <img src="https://img.shields.io/badge/nest-online?style=for-the-badge&logo=nestjs&logoColor=%23E0234E&labelColor=%23000&color=%23E0234E"/>
-           <img src="https://img.shields.io/badge/supabase-online?style=for-the-badge&logo=supabase&logoColor=%233FCF8E&labelColor=%23000&color=%233FCF8E"/>
-           <img src="https://img.shields.io/badge/css-online?style=for-the-badge&logo=css&logoColor=%23663399&labelColor=%23000&color=%23663399"/>
+          <img src="https://img.shields.io/badge/supabase-online?style=for-the-badge&logo=supabase&logoColor=%233FCF8E&labelColor=%23000&color=%233FCF8E"/>
+          <img src="https://img.shields.io/badge/css-online?style=for-the-badge&logo=css&logoColor=%23663399&labelColor=%23000&color=%23663399"/>
         </p>
       </div>
     </td>
