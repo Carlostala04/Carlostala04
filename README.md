@@ -71,6 +71,7 @@ motto: "Learning every day, helping others along the way"
         <p align="left">
           <img src="https://img.shields.io/badge/supabase-online?style=for-the-badge&logo=supabase&logoColor=%233FCF8E&labelColor=%23000"/>
           <img src="https://img.shields.io/badge/react-online?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=%23000&color=%2361DAFB"/>
+          <img src="https://img.shields.io/badge/css-online?style=for-the-badge&logo=css&logoColor=%23663399&labelColor=%23000&color=%23663399"/>
         </p>
       </div>
     </td>
