@@ -80,7 +80,7 @@ motto: "Learning every day, helping others along the way"
       <h3 align="center">My-Farmer</h3>
       <div align="center">
         <a href="https://github.com/Carlostala04/My-Farmer.git" target="_blank">
-          <img src="https://via.placeholder.com/400x220/0d1117/58A6FF?text=📸+Screenshot" 
+          <img src="/Images/my-farmer-preview.jpeg" 
                width="100%" style="border-radius: 8px;" alt="Project Preview"/>
         </a>
         <br/><br/>
