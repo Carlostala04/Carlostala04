@@ -69,8 +69,7 @@ motto: "Learning every day, helping others along the way"
           Breve descripción del proyecto. Qué hace, qué problema resuelve.
         </p>
         <p align="left">
-          <img src="https://img.shields.io/badge/supabase-online?style=for-the-badge&logo=supabase&logoColor=%233FCF8E&labelColor=%23000
-"/>
+          <img src="https://img.shields.io/badge/supabase-online?style=for-the-badge&logo=supabase&logoColor=%233FCF8E&labelColor=%23000"/>
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
         </p>
       </div>
