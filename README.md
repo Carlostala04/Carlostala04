@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:58A6FF&height=200&section=header&text=Carlos%20Talavera&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineering%20Student%20%7C%20Software%20Engineer%20Beginner&descAlignY=60&descSize=18&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:58A6FF&height=200&section=header&text=Carlos%20Talavera&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineering%20Student%20%7C%20Software%20Engineer%20Junior&descAlignY=60&descSize=18&descColor=8b949e" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Systems+Engineering+Student;Software+Engineer+Beginner;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Systems+Engineering+Student;Software+Engineer+Junnior;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
