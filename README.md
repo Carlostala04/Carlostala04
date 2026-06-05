@@ -39,6 +39,7 @@ motto: "Learning every day, helping others along the way"
 
 **Database & Tools**
 
+![PostgreSQL](https://img.shields.io/badge/postgresql-online?style=for-the-badge&logo=PostgreSQL&logoColor=%23fff&labelColor=%234169E1&color=%23000)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
