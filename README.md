@@ -106,14 +106,7 @@ motto: "Learning every day, helping others along the way"
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-<br/>
-
 ![Estadísticas de Carlostala04](https://vercel.app)
-
-
-</div>
 
 ---
 
