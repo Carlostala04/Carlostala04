@@ -110,7 +110,8 @@ motto: "Learning every day, helping others along the way"
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carlostala04&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=ff6e6e&currStreakLabel=8b949e)
+![Estadísticas de Carlostala04](https://vercel.app)
+
 
 </div>
 
