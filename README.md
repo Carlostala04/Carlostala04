@@ -121,6 +121,8 @@ motto: "Learning every day, helping others along the way"
 
 [![Email](https://img.shields.io/badge/carlostala.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlostala.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/Carlostala04-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlostala04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-talavera-8bb715414)
+[![Portfolio](https://img.shields.io/badge/Portafolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-carlos-tala.vercel.app/)
 
 </div>
 
