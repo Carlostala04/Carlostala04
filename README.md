@@ -34,16 +34,16 @@ motto: "Learning every day, helping others along the way"
 **Backend**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring%20boot-online?style=for-the-badge&logo=Spring%20boot&logoColor=%236DB33F&labelColor=%23000)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 
 **Database & Tools**
 
-![PostgreSQL](https://img.shields.io/badge/postgresql-online?style=for-the-badge&logo=PostgreSQL&logoColor=%23fff&labelColor=%234169E1&color=%23000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-online?style=for-the-badge&logo=supabase&logoColor=%233FCF8E&labelColor=%23000)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
