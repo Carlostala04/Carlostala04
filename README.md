@@ -113,7 +113,8 @@ motto: "Learning every day, helping others along the way"
 
 ## 📈 GitHub Stats
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Carlostala04&show_icons=true)
+[![Tus estadísticas de GitHub](https://vercel.app)](https://github.com)
+
 ---
 
 ## 📫 Contact
