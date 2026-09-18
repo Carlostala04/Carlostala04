@@ -114,6 +114,8 @@ motto: "Learning every day, helping others along the way"
 ## 📈 GitHub Stats
 
 [![Tus estadísticas de GitHub](https://vercel.app)](https://github.com)
+[![Lenguajes más usados](https://vercel.app)](https://github.com)
+[![Racha de GitHub](https://herokuapp.com)](https://git.io)
 
 ---
 
