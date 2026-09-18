@@ -111,11 +111,13 @@ motto: "Learning every day, helping others along the way"
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
-[![Tus estadísticas de GitHub](https://vercel.app)](https://github.com)
-[![Lenguajes más usados](https://vercel.app)](https://github.com)
-[![Racha de GitHub](https://herokuapp.com)](https://git.io)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carlostala04&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlostala04&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Carlostala04&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
