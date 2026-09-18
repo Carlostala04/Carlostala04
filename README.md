@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Systems+Engineering+Student;Junior+Software+Engineer;Frontend+%26+Backend+Developer;Always+learning+something+new+%F0%9F%9A%80" />
 </a>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Carlostala04&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
-
 </div>
 
 ---
@@ -45,7 +41,9 @@ currently_learning:
 
 motto: "Learning every day, building one project at a time."
 ```
+
 ## 🛠️ Tech Stack
+
 🎨 Frontend
 <p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </p>
 ⚙️ Backend
@@ -58,31 +56,36 @@ motto: "Learning every day, building one project at a time."
 -----
 
 ## 📚 Currently Learning
+
 <p> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> </p>
 
 I'm currently focusing on building full-stack applications with React, Node.js, Express and SQL databases.
 
-<table> <tr> <td width="50%" valign="top"> <h3 align="center">🏥 MediRecord</h3> <div align="center"> <a href="https://github.com/Carlostala04/Gestion-pacientes"> <img src="Images/image.png" width="100%" alt="MediRecord"/> </a>
+ <h2>Feature proyects 🚀</h2>
+<table> <tr> <td width="50%" valign="top"> <h3 align="center"> MediRecord</h3> <div align="center"> <a href="https://github.com/Carlostala04/Gestion-pacientes"> <img src="Images/image.png" width="100%" alt="MediRecord"/> </a>
 
 <br><br>
 
-<a href="https://github.com/Carlostala04/Gestion-pacientes"> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-58A6FF?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> <p> Desktop application for managing patients, medical histories and appointments for a private medical practice. </p> <p> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> </p> </td> <td width="50%" valign="top"> <h3 align="center">🌱 My-Farmer</h3> <div align="center"> <a href="https://github.com/Carlostala04/My-Farmer"> <img src="Images/my-farmer-preview.jpeg" width="100%" alt="My-Farmer"/> </a>
+<a href="https://github.com/Carlostala04/Gestion-pacientes"> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-58A6FF?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> <p> Desktop application for managing patients, medical histories and appointments for a private medical practice. </p> <p> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> </p> </td> <td width="50%" valign="top"> <h3 align="center">My-Farmer</h3> <div align="center"> <a href="https://github.com/Carlostala04/My-Farmer"> <img src="Images/my-farmer-preview.jpeg" width="100%" alt="My-Farmer"/> </a>
 
 <br><br>
 
 <a href="https://github.com/Carlostala04/My-Farmer"> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-58A6FF?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> <p> Mobile application designed to help farmers manage animals, crops, parcels and reminders. </p> <p> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> </p> </td> </tr> </table>
+
 ## 📊 GitHub Statistics
+
 <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Carlostala04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlostala04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com/?user=Carlostala04&theme=tokyonight&hide_border=true" /> </div>
-## 📈 Contribution Graph
+
+
 <div align="center">
 
 </div>
-## 📫 Contact
+<h2>📫 Contact</h2>
 <div align="center"> <a href="mailto:carlostala.dev@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Carlostala04"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/carlos-talavera-8bb715414"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://portafolio-carlos-tala.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </div>
 <div align="center">
-## 💙 Thanks for visiting my profile!
+ <h3>💙 Thanks for visiting my profile!</h3>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=100&section=footer" width="100%"/> </div>
